@@ -13,8 +13,8 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
-    "app": "react-vite"
+    "org": "willbaseleres853518",
+    "app": "rpg-game"
   },
   "files": [
     "!src/**/*"
